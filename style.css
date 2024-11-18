@@ -1,0 +1,41 @@
+body {
+	margin: 0;
+	padding: 0;
+	outline-style: none;
+	box-sizing: border-box;
+}
+
+.container {
+	padding: 20px;
+	height: 100vh;
+	background-color: transparent;
+	text-align: center;
+	font-size: 20px;
+}
+
+#input_field {
+	padding: 5px 10px;
+	border: none;
+	outline-style: none;
+	border-bottom: 1px solid black;
+}
+
+#add_btn {
+	padding: 5px 10px;
+	margin-left: 5px;
+	background-color: transparent;
+	outline-style: none;
+	border: none;
+}
+
+#list {
+	width: 200px;
+	margin: 20px auto;
+}
+
+.paragraph-styling {
+	margin: 0;
+	text-align: left;
+	cursor: pointer;
+	font-size: 17px;
+}
